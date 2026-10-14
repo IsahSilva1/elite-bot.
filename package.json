@@ -1,0 +1,13 @@
+
+{
+  "name": "elite-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para grupos do Elite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest"
+  }
+}
