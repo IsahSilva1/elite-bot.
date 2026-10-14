@@ -8,6 +8,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "latest"
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest"
   }
 }
